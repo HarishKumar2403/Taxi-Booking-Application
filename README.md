@@ -10,6 +10,7 @@ Design a Call taxi booking application-There are n number of taxi’s. For simpl
  Design modules for:
  
 1) Call taxi booking
+   
 Input 1:
 Customer ID: 1
 Pickup Point: A
